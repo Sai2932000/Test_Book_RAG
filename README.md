@@ -23,7 +23,7 @@ Built with **LangChain**, **ChromaDB**, and **Google Vertex AI**, this project d
 - 📦 ChromaDB (for vector search)
 - 🔍 Google Vertex AI (for embeddings + LLM)
 - 🧠 NLP Techniques (chunking, semantic search)
-- Optional UI: Streamlit (if added)
+-  UI: Streamlit 
 
 ---
 
