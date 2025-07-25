@@ -27,7 +27,7 @@ memory = ConversationSummaryBufferMemory(
 )
 
 
-loader = PyPDFLoader("C:/Users/sai thumma/Downloads/8th.pdf")
+loader = PyPDFLoader("8th/Social.pdf")
 docs = loader.load()
 
 splitter = RecursiveCharacterTextSplitter(
